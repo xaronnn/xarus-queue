@@ -1,2 +1,2 @@
-# xarus-queue
-queue decorator for xarus
+# XARUS Queue
+# Xarus Queue can be used only in internal framework.
