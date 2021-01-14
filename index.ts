@@ -1,4 +1,5 @@
 import * from "./lib/XarusQueue";
+import { err, ok, XarusError, Result } from "@xarus/core";
 import type { XarusContext } from "@xarus/context";
 
 export class XarusAsync extends XarusQueue {
